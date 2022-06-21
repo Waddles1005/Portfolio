@@ -15,42 +15,42 @@ const data = [
     image: IMG1,
     title: 'Swindle-Shop -JavaScript -Node.js -Express.js -Handlebars.js -Cloudinary -HTML -CSS -MySQL',
     github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/16673715-Crypto-currency-dashboards-and-financial-data-visualization'
+    demo: 'https://swindle-shop.herokuapp.com/'
   },
   {
     id: 2,
     image: IMG2,
     title: 'Swindle-Shop -JavaScript -Node.js -Express.js -Handlebars.js -Cloudinary -HTML -CSS -MySQL',
     github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/16580766-Orion-UI-kit-Charts-templates-infographics-in-Figma'
+    demo: 'https://swindle-shop.herokuapp.com/'
   },
   {
     id: 3,
     image: IMG3,
     title: 'Swindle-Shop -JavaScript -Node.js -Express.js -Handlebars.js -Cloudinary -HTML -CSS -MySQL',
     github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/17290917-Eclipse-Figma-dashboard-UI-kit-for-data-design-web-apps'
+    demo: 'https://swindle-shop.herokuapp.com/'
   },
   {
     id: 4,
     image: IMG4,
     title: 'Swindle-Shop -JavaScript -Node.js -Express.js -Handlebars.js -Cloudinary -HTML -CSS -MySQL',
     github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/16955822-Maintaining-tasks-and-tracking-progress'
+    demo: 'https://swindle-shop.herokuapp.com/'
   },
   {
     id: 5,
     image: IMG5,
     title: 'Swindle-Shop -JavaScript -Node.js -Express.js -Handlebars.js -Cloudinary -HTML -CSS -MySQL',
     github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/16541289-Orion-UI-kit-Charts-templates-infographics-in-Figma'
+    demo: 'https://swindle-shop.herokuapp.com/'
   },
   {
     id: 6,
     image: IMG6,
     title: 'Swindle-Shop -JavaScript -Node.js -Express.js -Handlebars.js -Cloudinary -HTML -CSS -MySQL',
     github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/15887665-Orion-UI-kit-Charts-templates-infographics-in-Figma'
+    demo: 'https://swindle-shop.herokuapp.com/'
   }
 ]
 
